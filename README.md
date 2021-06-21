@@ -21,3 +21,6 @@
 ## Data Tables: 
 => https://datatables.net/
 
+## Form validaton:
+=> https://jqueryvalidation.org/
+
